@@ -1,0 +1,4 @@
+[submodule "mp3Worker/lame-svn"]
+	path = mp3Worker/lame-svn
+	url = https://github.com/Kagami/lame-svn.git
+	ignore = dirty
