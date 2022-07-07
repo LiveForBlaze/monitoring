@@ -10,7 +10,7 @@
     "memoize-one": "^5.0.4",
     "mobx": "^4.2.1",
     "mobx-react": "^5.1.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-duration-format": "^2.2.2",
     "polished": "^3.4.0",
     "react": "^16.4.1",
